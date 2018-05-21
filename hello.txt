@@ -1,6 +1,10 @@
 print("Welcome")
 <<<<<<< HEAD
+<<<<<<< HEAD
 print("hello everybody")
 =======
 print("hello guys")
 >>>>>>> master
+=======
+print("hello everybody")
+>>>>>>> parent of 0b423a3... Merge branch 'master' into goodbye

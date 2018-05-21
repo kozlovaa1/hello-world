@@ -8,3 +8,4 @@ print("hello guys")
 =======
 print("hello everybody")
 >>>>>>> parent of 0b423a3... Merge branch 'master' into goodbye
+print("hello everybody")

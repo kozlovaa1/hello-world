@@ -1,2 +1,5 @@
 print("Welcome")
-print("hello everybody")
+<<<<<<< HEAD
+=======
+print("hello guys")
+>>>>>>> master
